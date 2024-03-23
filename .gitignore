@@ -1,0 +1,7 @@
+/venv
+/google-gen.py
+test.py
+test.svg.tmp
+requirements.txt
+generate.py
+claude-gen.py
